@@ -3,5 +3,5 @@ let _ = require( 'wgdfwriterbase64' );
 
 /**/
 
-___
+console.log( '___ not implemented ___' );
 
